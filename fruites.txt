@@ -1,3 +1,5 @@
 Apple,
-banana,
-orange
+pær,
+orange,
+graps,
+watermalone.
